@@ -1,0 +1,11 @@
+1. grune db létrehozása
+2. export_db.sql beimportálása
+3. GruneAntwort.zip kicsomagolása a webserverre
+
+--------------------------------------------------
+Jelen db hozzáférés root/root, ha ettõl eltér akkora site/all/config.php módosítsuk.
+
+--------------------------------------------------
+Admin login:
+id: admin
+pw: admin
